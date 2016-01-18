@@ -1,8 +1,8 @@
 {
-    "aliquot": 2, 
+    "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "88.15 mg", 
+    "comment": "247.96 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63389", 
-    "increment": null, 
+    "identifier": "63391", 
+    "increment": 0, 
     "irradiation": "NM-273", 
     "irradiation_level": "A", 
-    "irradiation_position": 4, 
+    "irradiation_position": 6, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "ValleyOfFire", 
     "queue_conditionals_name": "", 
     "repository_identifier": "ValleyOfFire", 
-    "sample": "NMVF-02", 
+    "sample": "NMVF-03", 
     "spec_sha": "0c9586656f97b6d6ca90136276da5bd355248ef0", 
-    "timestamp": "2015-01-23T06:00:52", 
-    "username": "MZimmerer", 
-    "uuid": "61cc94a3-d9ba-4148-8dfb-df09c851b721"
+    "timestamp": "2015-01-21T17:07:24", 
+    "username": "Heizler", 
+    "uuid": "19690443-79ab-4473-9b87-e3e99310a6c4"
 }
